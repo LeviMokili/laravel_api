@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <meta name="google-site-verification" content="cOkz_DqiS5YSKrmLqD1x74BPnG3of3QkeaBV9UOBhtc" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
